@@ -1,5 +1,7 @@
 # Python Codes
 ## Credit Risk Analysis
+![Credit Risk Analysis](https://github.com/mblinks/mblinks.github.io/blob/main/assets/creditrisk.jpg)
+
 In today's financial landscape, assessing credit risk is crucial for lenders and financial institutions. This dataset offers a simplified view of the factors that contribute to credit risk, making it an excellent opportunity for data scientists to apply their skills in machine learning and predictive modeling.
 
 **Column Descriptions:**
@@ -19,12 +21,12 @@ In today's financial landscape, assessing credit risk is crucial for lenders and
 Explore this dataset, preprocess the data as needed, and develop machine learning models, especially using Random Forest, to predict loan default. Your insights and solutions could contribute to better credit risk assessment methods and potentially help lenders make more informed decisions. 
 Remember to respect data privacy and ethics guidelines while working with this data. Good luck, and happy analyzing!
 
+---
 
 
 
 
 
-.
 
 
 
